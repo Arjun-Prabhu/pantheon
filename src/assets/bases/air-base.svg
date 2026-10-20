@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fuselage -->
+  <ellipse cx="50" cy="52" rx="5.5" ry="29" fill="UNIT_COLOR"/>
+  <!-- Nose cone -->
+  <polygon points="50,19 45,31 55,31" fill="UNIT_COLOR"/>
+  <!-- Main swept wings -->
+  <path d="M 48 44 L 8 72 L 13 77 L 48 56 Z" fill="UNIT_COLOR"/>
+  <path d="M 52 44 L 92 72 L 87 77 L 52 56 Z" fill="UNIT_COLOR"/>
+  <!-- Horizontal stabilizers -->
+  <path d="M 47 73 L 24 82 L 26 86 L 47 77 Z" fill="UNIT_COLOR"/>
+  <path d="M 53 73 L 76 82 L 74 86 L 53 77 Z" fill="UNIT_COLOR"/>
+</svg>
